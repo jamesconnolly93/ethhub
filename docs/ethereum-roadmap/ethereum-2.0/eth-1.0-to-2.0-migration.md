@@ -9,7 +9,7 @@ There are two important factors to consider when it comes to migrating from the 
 
 ## Ether Migration
 
-The current proposal is that in [phase 0](./eth-2.0-phases#phase-0-beacon-chain), users on the Eth 1.0 chain will be able to lock their ether up in a contract and will be credited with that same amount of ether on the Beacon Chain in Eth 2.0. At that point, they can stake that ether and begin to earn rewards on the Eth 2.0 chain. However, there is also some community interest in creating a two way bridge for that ether between the 1.0 and 2.0 chains. Pros and cons of each bridge are found below.
+The current proposal is that in [phase 0](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/), users on the Eth 1.0 chain will be able to lock their ether up in a contract and will be credited with that same amount of ether on the Beacon Chain in Eth 2.0. At that point, they can stake that ether and begin to earn rewards on the Eth 2.0 chain. However, there is also some community interest in creating a two way bridge for that ether between the 1.0 and 2.0 chains. Pros and cons of each bridge are found below.
 
 **One-way bridge**
 

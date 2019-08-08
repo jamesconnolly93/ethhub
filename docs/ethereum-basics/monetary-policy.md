@@ -56,8 +56,8 @@ According to the current [Eth 2.0 spec](https://github.com/ethereum/eth2.0-specs
 
 There are two majors upcoming factors when it comes to Ethereum's issuance rate and supply curve. They are:
 
-* [Serenity Phase 0](https://github.com/ethhub-io/ethhub/tree/master/ethereum-roadmap/serenity-phases): Slight bump in issuance due to Beacon Chain launch.
-* [Serenity Phase 2](https://github.com/ethhub-io/ethhub/tree/master/ethereum-roadmap/serenity-phases): Strong drop in issuance due to the PoW chain fading away.
+* [Serenity Phase 0](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/): Slight bump in issuance due to Beacon Chain launch.
+* [Serenity Phase 2](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/): Strong drop in issuance due to the PoW chain fading away.
 
 ![](/assets/images/issuance_graph.png)
 
